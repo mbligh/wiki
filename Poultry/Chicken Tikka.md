@@ -1,5 +1,0 @@
-Chicken
-Tikka
-
-mix.
-update
